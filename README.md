@@ -45,7 +45,7 @@ The main objective is to improve time management keep track responsibilities and
 - **FR-01:** Given the title "Complete Database Assignment", when a student saves a new task, the task shall appear in the saved task list with the exact entered title.
 - **FR-02:** Given two previously saved tasks, when the student opens the task list, both task titles shall be displayed.
 - **FR-03:** Given an incomplete task, when the student marks it as complete, its displayed status shall change to "Complete".
-- **FR-04:** Given saved tasks with different completion states, when the student views the task list, each task shall show its correct completion status.
+- **FR-04:** Given saved task  s      with different completion states, when the student views the task list, each task shall show its correct completion status.
 
 ## Assumptions and Open Questions
 
